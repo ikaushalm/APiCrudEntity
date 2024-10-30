@@ -1,0 +1,6 @@
+@APiCrudEntity_HostAddress = http://localhost:5083
+
+GET {{APiCrudEntity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
